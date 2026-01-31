@@ -16,7 +16,7 @@
 
 ## 🤝 Let’s Collaborate  
 I’m open to working on open-source projects, joining internships or contributing to web/mobile apps.  
-📫 Reach me via: Telegram **@haile1238**,
+📫 Reach me via: Telegram **@haile_sync**,
 
 
 
