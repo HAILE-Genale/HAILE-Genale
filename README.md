@@ -41,25 +41,17 @@ I love solving problems and creating projects that solve real needs with clean, 
 <!-- ==================== PROJECTS ==================== -->
 ### 🚀 Featured Projects
 
-#### 🏫 **School Maintenance System**
-🔗 https://github.com/HAILE-Genale/school-maintance-syestem  
-A full‑stack school maintenance platform built with JavaScript — including backend APIs, authentication, and admin workflows.
+### BrightPath Academy
+[![BrightPath Academy](https://raw.githubusercontent.com/HAILE-Genale/HAILE-Genale/main/brightpath.png)](https://brightpath-study.vercel.app/)
 
-👉 *Highlights:*  
-- REST API built with Node.js & Express  
-- React frontend (dynamic & responsive)  
-- MongoDB database integration
+Live Online Learning Platform built to empower students with structured programs and interactive learning.
 
 ---
 
-#### 🧭 **DevPath**
-🔗 https://github.com/HAILE-Genale/devpath  
-A project focused on tech pathways: learning paths, developer tools documentation, and roadmap guides for new devs.
+### Sinbona Delivery
+[![Sinbona Delivery](https://raw.githubusercontent.com/HAILE-Genale/HAILE-Genale/main/sinbona.png)](https://sinbona-delivery.vercel.app/)
 
-👉 *Highlights:*  
-- Organized content for tech learners  
-- Fullstack code structure  
-- Backend + frontend synergy
+A modern delivery ordering platform designed for fast and simple customer ordering experience.
 
 ---
 
