@@ -54,6 +54,9 @@ Live Online Learning Platform built to empower students with structured programs
 A modern delivery ordering platform designed for fast and simple customer ordering experience.
 
 ---
+### Personal Portfolio
+[![presonal portifolio](https://raw.githubusercontent.com/HAILE-Genale/HAILE-Genale/main/portfolio.png)](https://portfolio-eight-xi-sns5kjwc3w.vercel.app)
+My personal developer portfolio showcasing my projects, skills, and work as a full-stack developer.
 
 <!-- ==================== CONNECT ==================== -->
 ### 📫 Let’s Connect
